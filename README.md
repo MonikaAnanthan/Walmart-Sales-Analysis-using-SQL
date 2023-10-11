@@ -14,21 +14,37 @@ The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. 
 
 
 invoice_id	- Invoice of the sales 
+
 branch	- Branch at which sales 
+
 city	- The location of the branch	
-customer_type - The type of the customer	
-gender - Gender of the customer making purchase	
+
+customer_type - The type of the customer
+
+gender - Gender of the customer making purchase	sold
+
 product_line -	Product line of the product 
+
 unit_price	- The price of each product
+
 quantity	- The amount of the product 
+
 VAT - 	The amount of tax on the purchase
+
 total - The total cost of the purchase	
+
 date	- The date on which the purchase 
+
 time	- The time at which the purchase was made
+
 payment_method	- The total amount paid	
+
 cogs -	Cost Of Goods sold	
-gross_margin_percentage	- Gross margin percentage	
+
+gross_margin_percentage	- Gross margin percentage
+
 gross_income	- Gross Income	
+
 rating	- Rating	
 
 # Analysis list
